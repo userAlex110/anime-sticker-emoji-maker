@@ -1,0 +1,7 @@
+成品/
+原始生成/
+*.png
+!docs/**/*.png
+__pycache__/
+*.pyc
+.venv/

@@ -1,0 +1,7 @@
+interface:
+  display_name: "动漫贴纸表情包"
+  short_description: "把喜欢的动漫角色还原成原作画风贴纸"
+  default_prompt: "使用 $anime-sticker-emoji-maker 帮我完成……"
+
+policy:
+  allow_implicit_invocation: true
